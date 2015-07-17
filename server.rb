@@ -1,3 +1,4 @@
+# start server: ruby server.rb
 
 require 'webrick'
 require 'json'
