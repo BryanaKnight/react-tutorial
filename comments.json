@@ -1,4 +1,14 @@
 [
-  {"author": "Princess Leia", "text": "This is one comment"},
-  {"author": "R2D2", "text": "This is *another* comment"}
+    {
+        "author": "Princess Leia",
+        "text": "This is one comment"
+    },
+    {
+        "author": "R2D2",
+        "text": "This is *another* comment"
+    },
+    {
+        "author": "hello",
+        "text": "hi"
+    }
 ]
